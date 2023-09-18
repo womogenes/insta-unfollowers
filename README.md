@@ -4,7 +4,7 @@ Find the users you follow on Instagram who don't follow you back!
 
 ## Dependencies
 
-[`instagram-private-api`](npmjs.com/package/instagram-private-api)
+[`instagram-private-api`](https://npmjs.com/package/instagram-private-api)
 
 ## Setup
 
